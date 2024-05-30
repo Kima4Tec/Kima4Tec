@@ -113,7 +113,7 @@ Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, po
   <li>C#, EF, MVC</li>
   <li>MS SQL</li>
   <li>Azure</li>
-    <li>Dokumentation, og kodekommentering</li>
+    <li>Dokumentation og kodekommentering</li>
 </ul>
 
 <h4>Aktivitetsmedarbejder (deltid) i PCB, Psykiatrisk Center Ballerup </h4>
