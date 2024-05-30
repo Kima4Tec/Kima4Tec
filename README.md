@@ -79,7 +79,7 @@ og relationsskabende kompetencer.
 Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, puslespil, min familie. 
 Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, portainer og en webpage på.
 
-<br><br>
+<br>
 <h2>📘UDDANNELSE</h2>
 
 <h4>TEC - Technical Education Copenhagen (nuværende)</h4> 
@@ -106,8 +106,8 @@ Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, po
   <li>Markedsføring gennem de sociale medier</li>
 </ul>
 
- <br><br>
-<h2>ERHVERVSERFARING</h2> 
+ <br>
+<h2>🥷ERHVERVSERFARING</h2> 
 <h4>Praktikant MIRANDA Partners</h4>
 <div>2023-2024</div>
 <ul>
@@ -129,7 +129,6 @@ Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, po
   <li>Lavet kvalitative interviews af medarbejderne </li>
     <li>Kommunikationsarbejde </li>
 </ul>
-
 
 <h4>Keepgoing Projektkoordinator/mentor</h4>  
 <div>2016–2018 </div> 
