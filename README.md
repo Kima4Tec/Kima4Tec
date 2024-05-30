@@ -1,6 +1,5 @@
-## >Søger læreplads<
+# >Søger læreplads<
 <h3>⚡ Jeg er under uddannelse som Datatekniker med programmering som speciale</h3>
-
 - 🔭 Jeg er igang med et projekt i Blazor opbygget med entity framework, krypteret password, secret connectionstring, hvor elever skal kunne indsætte data om nuværende forløb og instruktør skal kunne rette i alle data i databasen ved at logge ind med krypteret password.
 - 🎴 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json
 - 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection
@@ -37,6 +36,7 @@
 <h1></h1>
 - 📫 Kontakt: kima4@elev.tec.dk
 <h1></h1>
+
 <br>
 <h2>🪪PROFIL</h2>
 Jeg har meget passion, når det handler 
@@ -151,7 +151,7 @@ Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, po
   <li>Pædagogisk og sundhedsfagligt arbejde. Ansvar som 
 kontaktperson </li>
   <li>Bruger af dokumentationsværktøjet: CSC</li>
-  <li>Uuddannet pædagog i forskellige institutioner både indenfor special-  og normalområdet, fx bosteder og opholdssted, børnehave i Århus, fritidshjem og -klu </li>
+  <li>Uuddannet pædagog i forskellige institutioner både indenfor special-  og normalområdet, fx bosteder og opholdssted, børnehave i Århus, fritidshjem og -klub </li>
 </ul>
 
 <h4>Arbejdet i forskellige institutioner og bosteder både indenfor normal- og specialområdet.</h4> 
@@ -160,6 +160,4 @@ kontaktperson </li>
   <li>Har erfaring med mange 
 forskellige kreative og fysiske aktiviteter</li>
 </ul>
-
-
 
