@@ -106,13 +106,23 @@ Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, po
 
  <br><br>
 <h2>ERHVERVSERFARING</h2> 
+<h4>Praktikant MIRANDA Partners</h4>
+<div>2023-2024</div>
+<ul>
+  <li>OpenText, DM server</li>
+  <li>C#, EF, MVC</li>
+  <li>MS SQL</li>
+  <li>Azure</li>
+    <li>Dokumentation, og kodekommentering</li>
+</ul>
+
 <h4>Aktivitetsmedarbejder (deltid) i PCB, Psykiatrisk Center Ballerup </h4>
 <div>2020-2021 </div> 
 
 <h4>Tuwano Projektudvikler som konsulent</h4> 
 <div>2018–2020 </div> 
 <ul>
-  <li>atabehandling, analyser og grafiske præsentationer  </li>
+  <li>Databehandling, analyser og grafiske præsentationer  </li>
   <li>Udarbejdede udbudsansøgninger inkl. data </li>
   <li>Lavet kvalitative interviews af medarbejderne </li>
     <li>Kommunikationsarbejde </li>
