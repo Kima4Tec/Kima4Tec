@@ -5,6 +5,7 @@
 - 🎴 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json
 - 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection
 - 📽️ På grundforløbet lavede jeg videoer af min læring, som jeg lagde på YouTube. De kan ses her: <a href="https://www.youtube.com/@zoomwrap/xregexp">https://www.youtube.com/@zoomwrap/xregexp</a>
+<h1></h1>
 <details>
 <summary>Ranking af programmeringssprog</summary>
 
@@ -33,9 +34,9 @@
 |     10| Azure Webjobs        |
 
 </details>
-
+<h1></h1>
 - 📫 Kontakt: kima4@elev.tec.dk
-
+<h1></h1>
 <br>
 <h2>🪪PROFIL</h2>
 Jeg har meget passion, når det handler 
