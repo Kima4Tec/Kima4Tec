@@ -1,7 +1,7 @@
 ## >Søger læreplads<
 <h3>⚡ Jeg er under uddannelse som Datatekniker med programmering som speciale</h3>
 
-- 🔭 Jeg er igang med et projekt i Blazor opbygget med entity framework, krypteret password, gemt connectionstring, hvor elever skal kunne indsætte data om nuværende forløb og instruktør skal kunne rette i alle data i databasen ved at logge ind med krypteret password.
+- 🔭 Jeg er igang med et projekt i Blazor opbygget med entity framework, krypteret password, secret connectionstring, hvor elever skal kunne indsætte data om nuværende forløb og instruktør skal kunne rette i alle data i databasen ved at logge ind med krypteret password.
 - 🔭 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json
 - 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection
 - På grundforløbet lavede jeg videoer af min læring, som jeg lagde på YouTube. De kan ses her: <a href="https://www.youtube.com/@zoomwrap/xregexp">https://www.youtube.com/@zoomwrap/xregexp</a>
