@@ -1,9 +1,20 @@
-<h1>Søger læreplads</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" / style="width:60px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" / style="width:60px">
+<h2>⚡Søger læreplads som Datatekniker (programmering som speciale)⚡</h2>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" / width=60px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" / width=60px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" / width=60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" / width=60px">
+
+
           
           
-<h3>⚡ Jeg er under uddannelse som Datatekniker med programmering som speciale</h3>
+</span>
 
 <h4>🔭 Jeg er lige blevet færdig med et projekt i Blazor opbygget med entity framework, krypteret password og secret connectionstring</h4>
 <h4>🎴 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json</h4>
@@ -83,6 +94,5 @@ og relationsskabende kompetencer.
 Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, puslespil, min familie. 
 Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, portainer og en webpage på.
 <br><br>
-<h5>LinkedIn profil:</h5>
-🔗https://www.linkedin.com/in/kim-m-9b9416159/
+<a href="https://www.linkedin.com/in/kim-m-9b9416159/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / width="60px"></a>                   
 
