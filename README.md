@@ -1,12 +1,18 @@
-# >Søger læreplads<
+<h1>Søger læreplads</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" / style="width:60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" / style="width:60px">
+          
+          
 <h3>⚡ Jeg er under uddannelse som Datatekniker med programmering som speciale</h3>
 
 <h4>🔭 Jeg er lige blevet færdig med et projekt i Blazor opbygget med entity framework, krypteret password og secret connectionstring</h4>
 <h4>🎴 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json</h4>
 <h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection</h4>
-<h4> 📽️ På grundforløbet lavede jeg videoer af min læring, som jeg lagde på YouTube. De kan ses her: <a href="https://www.youtube.com/@zoomwrap/xregexp">https://www.youtube.com/@zoomwrap/xregexp</a></h4>
+<h4> 📽️ På grundforløbet lavede jeg videoer af min læring, som jeg lagde på YouTube. De kan ses her:</h4>
+🔗https://www.youtube.com/@zoomwrap/xregexp</a>
 
-<h1></h1>
+<h1>
+</h1>
 <details>
 <summary>Ranking af programmeringssprog</summary>
 
