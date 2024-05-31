@@ -90,7 +90,7 @@ og relationsskabende kompetencer.
 </ul>
 - samt nogen forståelse for svensk, tysk, fransk og japansk
 
-<h4> HOBBYER</h4>
+<h4>🎨HOBBYER</h4>
 Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, puslespil, min familie. 
 Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, portainer og en webpage på.
 <br><br>
