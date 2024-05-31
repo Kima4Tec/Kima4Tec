@@ -46,8 +46,6 @@ om IT og har altid været nysgerrig på de
 muligheder, der ligger indenfor IT og data. 
 Der er noget magisk ved at strukturere og 
 automatisere processer, skabe løsninger. 
-Jeg har en lang videregående humanistisk 
-uddannelse og har nu kastet mig ud i en ungdomspassion indenfor it og programmering.
 Jeg er nysgerrig, løsningsorienteret og udforsker gerne nye 
 områder. Samtidig med at være 
 pligtopfyldende, kan jeg tænke 
@@ -78,87 +76,7 @@ og relationsskabende kompetencer.
 <h4> HOBBYER</h4>
 Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, puslespil, min familie. 
 Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, portainer og en webpage på.
-
-<br>
-<h2>📘UDDANNELSE</h2>
-
-<h4>TEC - Technical Education Copenhagen (nuværende)</h4> 
-<div>Okt 2022 –</div> 
-<ul>
-  <li>Programmering I C# og har bl.a. berørt Blazor, MVC, EF, DI, Webjobs </li>
-  <li>SQL, Azure, DM Server og OpenText </li>
-</ul>
-
-
-<h4>Københavns Universitet</h4> 
-<div>2006 - 2012</div> 
-<ul>
-  <li>Cand.mag. i kunsthistorie </li>
-  <li>Speciale: Keep quiet, please! Museumsformidling af installationskunst til børn  </li>
-  <li>1 års udveksling i Japan </li>
-</ul>
-
-<h4>KEA og Copenhagen Business Academy</h4> 
-<div>2014 – 2015</div> 
-<ul>
-  <li>Skriftlig kommunikation </li>
-  <li>Sociale Medier - Strategi, planlægning og eksekvering af  </li>
-  <li>Markedsføring gennem de sociale medier</li>
-</ul>
-
- <br>
-<h2>🥷ERHVERVSERFARING</h2> 
-<h4>Praktikant MIRANDA Partners</h4>
-<div>2023-2024</div>
-<ul>
-  <li>OpenText, DM server</li>
-  <li>C#, EF, MVC</li>
-  <li>MS SQL</li>
-  <li>Azure</li>
-    <li>Dokumentation og kodekommentering</li>
-</ul>
-
-<h4>Aktivitetsmedarbejder (deltid) i PCB, Psykiatrisk Center Ballerup </h4>
-<div>2020-2021 </div> 
-
-<h4>Tuwano Projektudvikler som konsulent</h4> 
-<div>2018–2020 </div> 
-<ul>
-  <li>Databehandling, analyser og grafiske præsentationer  </li>
-  <li>Udarbejdede udbudsansøgninger inkl. data </li>
-  <li>Lavet kvalitative interviews af medarbejderne </li>
-    <li>Kommunikationsarbejde </li>
-</ul>
-
-<h4>Keepgoing Projektkoordinator/mentor</h4>  
-<div>2016–2018 </div> 
-<ul>
-  <li>Nyhedsbreve, projektbeskrivelser og brochurer  </li>
-  <li>Undervisning og visitationssamtaler </li>
-  <li>Rapportering  </li>
-    <li>Motivationsarbejde  </li>
-  <li>Kommunikation </li>
-</ul>
-
-<h4>Artist Video Branding Medejer</h4>  
-<div>2014–2015</div> 
-<ul>
-  <li>Konceptudvikling, økonomi, marketing, kommunikation, webdesign, administration, videooptagelse med SLR-kamera samt redigering. Branding af kunstnere tilknyttet gallerier  </li>
-</ul>
-
-<h4>Lions Kollegiet, Kbh. (Genoptræningscenter for hjerneskadede)</h4>  
-<div>2007-2019 </div> 
-<ul>
-  <li>Pædagogisk og sundhedsfagligt arbejde. Ansvar som 
-kontaktperson </li>
-  <li>Bruger af dokumentationsværktøjet: CSC</li>
-  <li>Uuddannet pædagog i forskellige institutioner både indenfor special-  og normalområdet, fx bosteder og opholdssted, børnehave i Århus, fritidshjem og -klub </li>
-</ul>
-
-<h4>Arbejdet i forskellige institutioner og bosteder både indenfor normal- og specialområdet.</h4> 
-<div>1988–2006 </div> 
-  <li>Pædagogisk ansvar og kontaktperson </li>
-  <li>Har erfaring med mange 
-forskellige kreative og fysiske aktiviteter</li>
-</ul>
+<br><br>
+<h5>LinkedIn profil:</h5>
+🔗https://www.linkedin.com/in/kim-m-9b9416159/
 
