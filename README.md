@@ -10,10 +10,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" / width=60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" / width=60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" / width=60px">
-
-
-          
-          
 </span>
 
 <h4>🔭 Jeg er lige blevet færdig med et projekt i Blazor opbygget med entity framework, krypteret password og secret connectionstring</h4>
