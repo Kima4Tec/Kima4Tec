@@ -43,7 +43,7 @@
 |     1| C#         |
 |     2| MS SQL     |
 |     3| HTML, CSS  |
-|     4| JavaScript |
+
 </details>
 
 <details>
