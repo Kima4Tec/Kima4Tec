@@ -24,15 +24,16 @@
 <details>
 <summary>Nogle af mine mål</summary>
 
-| Rank | Sprog                       |
-|-----:|-----------------------------|
-|     1| Blive skrap til C#          |
-|     2| Lære Python                 |
-|     3| Lære Angular og Typescript  |
-|     4| Blive skrap til MS SQL      |
-|     5| Lære mere om Docker         |
-|     6| Lære mere om Linux          |
-|     7| Lære mere om Github & Azure |
+| Rank | Sprog                        |
+|-----:|------------------------------|
+|     1| Blive skrap til C#           |
+|     2| Lære Python                  |
+|     3| Lære Angular og Typescript   |
+|     4| Blive skrap til MS SQL       |
+|     5| Lære mere om Docker          |
+|     6| Lære mere om Linux           |
+|     7| Lære mere om Github & Azure  |
+|     8| ...og andet nyt og spændende |
 </details>
 <details>
 <summary>Ranking af programmeringssprog</summary>
