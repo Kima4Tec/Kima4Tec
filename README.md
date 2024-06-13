@@ -116,7 +116,7 @@
 <h1></h1>
 - 📫 Kontakt: kima4@elev.tec.dk
 <h1></h1>
-<h2>🪪PROFIL</h2>
+<h2>🖇️ PROFIL</h2>
 Jeg har meget passion, når det handler 
 om IT og har altid været nysgerrig på de 
 muligheder, der ligger indenfor IT og data. 
