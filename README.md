@@ -62,7 +62,7 @@
 
 
   
-<h4>🔭 Jeg har lavet en projekter i Blazor server, og har laver yderligere projekter.</h4>
+<h4>🔭 Jeg har lavet en del projekter i Blazor server, og har laver yderligere projekter.</h4>
 <h4>🎴 Jeg har lavet og opdateret hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css og javascript. Den kan ses her:</h4>
 🔗http://www.gniist.dk
 <h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection</h4>
