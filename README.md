@@ -68,7 +68,7 @@
 <h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection</h4>
 <h4> 📽️ På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
-
+<br/>
 <p>Se også min hjemmeside her på GitHub:</p>
 🔗https://kima4tec.github.io/KimMassesson/
 
