@@ -64,10 +64,13 @@
   
 <h4>🔭 Jeg er lige blevet færdig med et projekt i Blazor opbygget med entity framework, krypteret password og secret connectionstring</h4>
 <h4>🎴 Samtidig laver jeg hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css, javascript, import af json. Jeg har anvendt en json-fil til at konfigurere kalendersiden: Turnéplan, så den er nem for andre at redigere. Siden er stadig under opbygning, men kan ses her:</h4>
-🔗https://kima4tec.github.io/Gnist/calendar.htm
+🔗https://www.gniist.dk
 <h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection</h4>
 <h4> 📽️ På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
+
+Se også min hjemmeside her på GitHub:
+🔗https://kima4tec.github.io/KimMassesson/
 
 <h1>
 </h1>
