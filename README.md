@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<h4>DevOps værkstøjer, som jeg har berørt og anvendt:</h4>
+<h4>DevOps værkstøjer, som jeg har berørt og anvendt. Azure anvendte jeg på en tidligere arbejdsplads. Docker og Portainer brugte jeg på en Linux server, hvor jeg havde en hjemmeside i Blazor med Apache som webserver:</h4>
 <table>
   <tr>
     <td>Azure</td>
@@ -72,8 +72,6 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" / width=60px"></td>
   </tr>
   </table>
-
-
   
 <h4>🔭 Jeg har lavet en del projekter i Blazor server, og har laver yderligere projekter.</h4>
 <h4>🎴 Jeg har lavet og opdateret hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css og javascript. Den kan ses her:</h4>
