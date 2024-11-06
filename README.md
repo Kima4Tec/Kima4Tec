@@ -78,7 +78,7 @@
 <h4>🔭 Jeg har lavet en del projekter i Blazor server, og har laver yderligere projekter.</h4>
 <h4>🎴 Jeg har lavet og opdateret hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css og javascript. Den kan ses her:</h4>
 🔗https://www.gnist.show
-<h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection</h4>
+<h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
 <h4> 📽️ På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
 <br><br>
