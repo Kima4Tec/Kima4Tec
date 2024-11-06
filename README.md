@@ -53,10 +53,23 @@
   <tr>
     <td>.NET</td>
     <td>Blazor</td>
+    <td>Angular</td>
   </tr>
     <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" / width=60px"></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" / width=60px"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" / width=60px"></td>
+          
+  </tr>
+  </table>
+
+  <h4>Libraries</h4>
+<table>
+  <tr>
+    <td>React</td>
+  </tr>
+    <tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" / width=60px"></td>
   </tr>
   </table>
 
