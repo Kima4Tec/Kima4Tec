@@ -48,30 +48,33 @@
   </tr>
   </table>
   
-<h4>Frameworks og herunder softwarearkitektur som MVC og MVVM</h4>
-<table>
-  <tr>
-    <td>.NET</td>
-    <td>Blazor</td>
-    <td>Angular</td>
-  </tr>
-    <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" / width=60px"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" / width=60px"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" / width=60px"></td>
-          
-  </tr>
-  </table>
 
-  <h4>Libraries</h4>
-<table>
-  <tr>
-    <td>React</td>
-  </tr>
-    <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" / width=60px"></td>
-  </tr>
-  </table>
+            <h4>Frameworks og herunder softwarearkitektur som MVC og MVVM. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
+            <table class="styled-table">
+              <tr>
+                <td>.NET</td>
+                <td>Blazor</td>
+
+              </tr>
+                <tr>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" style="width:60px"></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="width:60px"></td>
+
+                      
+              </tr>
+              </table>
+            
+              <h4>Libraries og Framework, som jeg har snuset til</h4>
+            <table class="styled-table">
+              <tr>
+                <td>React</td>
+                <td>Angular</td>
+              </tr>
+                <tr>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width:60px"></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:60px"></td>
+              </tr>
+              </table>
   
 <h4>🔭 Jeg har lavet en del projekter i Blazor server, og har laver yderligere projekter.</h4>
 <h4>🎴 Jeg har lavet og opdateret hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css og javascript. Den kan ses her:</h4>
