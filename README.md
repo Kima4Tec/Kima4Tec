@@ -48,9 +48,8 @@
   </tr>
   </table>
   
-
-            <h4>Frameworks og herunder softwarearkitektur som MVC og MVVM. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
-            <table class="styled-table">
+ <h4>Frameworks og herunder softwarearkitektur som MVC og MVVM. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
+ <table>
               <tr>
                 <td>.NET</td>
                 <td>Blazor</td>
@@ -65,7 +64,7 @@
               </table>
             
               <h4>Libraries og Framework, som jeg har snuset til</h4>
-            <table class="styled-table">
+            <table>
               <tr>
                 <td>React</td>
                 <td>Angular</td>
