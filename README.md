@@ -72,45 +72,24 @@
    </tr>
 </table>
   
-<h4>🔭 Jeg har lavet en del projekter i Blazor server, og har laver yderligere projekter.</h4>
-<h4>🎴 Jeg har lavet og opdateret hjemmeside for et kulturprojekt, hvor jeg anvender HTML, bootstrap, css og javascript. Den kan ses her:</h4>
-🔗https://www.gnist.show
-<h4> 🌱 For nyligt har jeg haft fokus på import/eksport af json-filer med data, API, OOP, EF og dbcontext, dependency injection. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
-<h4> 📽️ På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
+<h4>🔭 Jeg har lavet en del projekter i Blazor server.</h4>
+<h4>🎴 Jeg har lavet og opdateret flere hjemmesider, bl.a  et kulturprojekt, hvor jeg anvender HTML, Bootstrap, Tailwind, CSS og JavaScript, Angular, Typescript. De kan ses her:</h4>
+🔗https://www.gnist.show 
+🔗https://www.atopos.dk 
+🔗https://www.eleutheria.dk 
+🔗https://www.novocento.dk
+
+På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
 <br><br>
-<p>Se også min hjemmeside her på GitHub:</p>
-🔗https://kima4tec.github.io/KimMassesson/
+<p>Min egen hjemmside kan ses her:</p>
+🔗https://www.kimmassesson.dk
 
 <h1>
 </h1>
-<details>
-<summary>Nogle af mine mål</summary>
-
-| Rank | Sprog                        |
-|-----:|------------------------------|
-|     1| Blive skrap til C#           |
-|     2| Lære Python                  |
-|     3| Lære Angular og Typescript   |
-|     4| Blive skrap til MS SQL       |
-|     5| Lære mere om Docker          |
-|     6| Lære mere om Linux           |
-|     7| Lære mere om Github & Azure  |
-|     8| ...og andet nyt og spændende |
-</details>
-<details>
-<summary>Ranking af programmeringssprog</summary>
-
-| Rank | Sprog      |
-|-----:|------------|
-|     1| C#         |
-|     2| MS SQL     |
-|     3| HTML, CSS  |
-
-</details>
 
 <details>
-<summary>Se en liste af it-områder, som jeg har berørt</summary>
+<summary>Se en liste af nogle af de it-områder, som jeg har berørt. Se min hjemmeside, for at se en uddybende liste.</summary>
 
 | Rank | Sprog                 |
 |-----:|-----------------------|
@@ -163,8 +142,7 @@ og relationsskabende kompetencer.
 - samt nogen forståelse for svensk, tysk, fransk og japansk
 
 <h4>🎨HOBBYER</h4>
-Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, puslespil, min familie. 
-Senest har jeg installeret en Linux-server, hvor jeg har lagt Docker, MS SQL, portainer og en webpage på.
+Når jeg ikke sidder foran skærmen med en programmeringsopgave, slapper jeg af med skak, kunst, gåture, akvarier, god musik, en god bog, min familie. 
 <br><br>
 <a href="https://www.linkedin.com/in/kim-m-9b9416159/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / width="60px"></a>                   
 
