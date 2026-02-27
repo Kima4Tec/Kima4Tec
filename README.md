@@ -75,9 +75,13 @@
 <h4>🔭 Jeg har lavet en del projekter i Blazor server.</h4>
 <h4>🎴 Jeg har lavet og opdateret flere hjemmesider, bl.a  et kulturprojekt, hvor jeg anvender HTML, Bootstrap, Tailwind, CSS og JavaScript, Angular, Typescript. De kan ses her:</h4>
 🔗https://www.gnist.show 
+
 🔗https://www.atopos.dk 
+
 🔗https://www.eleutheria.dk 
+
 🔗https://www.novocento.dk
+
 
 På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
