@@ -48,7 +48,7 @@
   </tr>
   </table>
   
- <h4>Frameworks og herunder softwarearkitektur som MVC og MVVM. Senest har jeg kigget på React og Angular, da det er noget, som vi kommer til at arbejde mere med senere i uddannelsesforløbet.</h4>
+ <h4>Frameworks og herunder softwarearkitektur som MVC og MVVM.</h4>
 <table>
    <tr>
       <td>.NET</td>
@@ -60,7 +60,7 @@
    </tr>
 </table>
             
-<h4>Jeg har snuset til Angular og React, men har endnu ikke lavet selvstændige opgaver heri.</h4>
+<h4>Jeg har arbejdet en del i Angular og lidt i React. Har kigget lidt på NestJs og NextJs, men har hovedsageligt arbejdet med API'er i .Net</h4>
 <table>
     <tr>
         <td>React</td>
