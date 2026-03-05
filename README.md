@@ -77,13 +77,14 @@
 🔗https://www.gnist.show <br>
 🔗https://www.atopos.dk <br>
 🔗https://www.eleutheria.dk <br>
+🔗https://www.kf2026.dk <br>
 🔗https://www.novocento.dk<br>
 
 
 På grundforløbet lavede jeg videoer af min læring til andre kommende grundforløbselever, som jeg lagde på YouTube. Jeg er kommet langt siden, men håber stadig at nogle kan bruge dem. De kan ses her:</h4>
 🔗https://www.youtube.com/@zoomwrap/xregexp</a>
 <br><br>
-<p>Min egen hjemmside kan ses her:</p>
+<p>Min egen hjemmeside kan ses her:</p>
 🔗https://www.kimmassesson.dk
 
 <h1>
