@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<h4>DevOps værkstøjer, som jeg har berørt og anvendt. Azure anvendte jeg på en tidligere arbejdsplads. Docker og Portainer brugte jeg på en Linux server, hvor jeg havde en hjemmeside i Blazor med Apache som webserver:</h4>
+<h4>DevOps værkstøjer, som jeg har berørt og anvendt. </h4>
 <table>
   <tr>
     <td>Azure</td>
